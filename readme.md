@@ -22,8 +22,9 @@ width = 600
 - [ ] comment images
 
 
+## Restroration of a used enlarger 
 
-----
+### Disassembly and cleaning
 
 <p align="center">
 <img
@@ -130,11 +131,10 @@ width = 300
 * [How to Make a DIY Photo Enlarger from an Afghan Box Camera](https://petapixel.com/2021/09/28/how-to-make-a-diy-photo-enlarger-from-an-afghan-box-camera/)
 
 * [Building an Enlarger.](https://www.photrio.com/forum/threads/building-an-enlarger.128663/)
-```
-...
-A diffusion light source would be the easiest to build, 
+
+>  A diffusion light source would be the easiest to build, 
 and if you are working with 35mm especially, 
 would likely give you the best quality prints.
-...
-```
+
 * [Diffuser or Condenser](https://www.photrio.com/forum/threads/diffuser-or-condenser.87427/print)
+> Most people, seem to prefer diffuser for 35mm
