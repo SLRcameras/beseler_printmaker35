@@ -112,3 +112,9 @@ width = 300
 * [Looking for Parts for my Beseler Printmaker 35](https://www.photrio.com/forum/threads/looking-for-parts-for-my-beseler-printmaker-35.162185/)
 * [Beseler Condenser Assembly for Printmaker 35](https://www.freestylephoto.biz/1045907-Beseler-Condenser-Assembly-for-Printmaker-35)
 [manual](http://www.jollinger.com/photo/cam-coll/manuals/enlargers/beseler/Beseler_Printmaker_35_67_manual.pdf)
+
+----
+
+* [Wikipedia: Enlarger](https://en.wikipedia.org/wiki/Enlarger)
+
+----
