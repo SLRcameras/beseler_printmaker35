@@ -110,6 +110,26 @@ width = 300
 ----
 
 
+<p align="center">
+<img
+src="img/12.PNG"
+width = 900
+/>
+</p> 
+
+----
+
+
+<p align="center">
+<img
+src="img/13.PNG"
+width = 900
+/>
+</p> 
+
+----
+
+
 ## Links
 ### Beseler
 * [beseler](https://www.beselerphoto.com/photography-enlargers/)
