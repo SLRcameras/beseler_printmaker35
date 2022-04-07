@@ -158,3 +158,6 @@ would likely give you the best quality prints.
 
 * [Diffuser or Condenser](https://www.photrio.com/forum/threads/diffuser-or-condenser.87427/print)
 > Most people, seem to prefer diffuser for 35mm
+
+### 3D models
+* https://www.yeggi.com/q/beseler+enlarger/
