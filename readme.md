@@ -6,6 +6,11 @@
 
 
 #  beseler_printmaker35
+Restoration log of a used Beseler printmaker 35
+
+----
+
+A brand new unit
 
  <p align="center">
 <img
@@ -19,7 +24,8 @@ width = 600
 
 ## Tasks
 
-- [ ] comment images
+- [x] comment images
+- [ ] Add base image
 
 
 ## Restroration of a used enlarger 
@@ -46,6 +52,7 @@ width = 900
 
 ----
 
+
 <p align="center">
 <img
 src="img/04.PNG"
@@ -54,6 +61,8 @@ width = 900
 </p> 
 
 ----
+Head disassembled.  
+- [ ] Check if the (missing?) concentrator Lens is needed, or difuse mode is ok 
 
 <p align="center">
 <img
@@ -63,7 +72,7 @@ width = 600
 </p> 
 
 ----
-
+some oxidation...
 <p align="center">
 <img
 src="img/06.PNG"
@@ -72,6 +81,7 @@ width = 600
 </p> 
 
 ----
+Head cover plate
 
 <p align="center">
 <img
@@ -81,7 +91,7 @@ width = 600
 </p> 
 
 ----
-
+The lens
 <p align="center">
 <img
 src="img/08.PNG"
@@ -99,6 +109,9 @@ width = 300
 </p> 
 
 ----
+The Lamp is PH140, with 120V working voltage. 
+- [ ] Check for a 220V replacement
+- [ ] Check for possible LED-lamp replacement
 
 <p align="center">
 <img
@@ -108,7 +121,9 @@ width = 300
 </p> 
 
 ----
+The main body, cleaned, has some minor oxidation
 
+- [ ] Design/3D print a foldable mount to the base to save height when in storage
 
 <p align="center">
 <img
@@ -118,7 +133,7 @@ width = 900
 </p> 
 
 ----
-
+The head open and the US 120V plug for the lamp
 
 <p align="center">
 <img
