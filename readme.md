@@ -15,12 +15,14 @@ A brand new unit
  <p align="center">
 <img
 src="img/11.PNG"
-width = 600
+width = 400
 />
 </p> 
 
 
 ----
+
+
 
 ## Tasks
 
@@ -28,9 +30,9 @@ width = 600
 - [ ] Add base image
 
 
-## Restroration of a used enlarger 
 
-### Disassembly and cleaning
+
+## Disassembly and cleaning
 
 <p align="center">
 <img
@@ -67,11 +69,14 @@ Head disassembled.
 <p align="center">
 <img
 src="img/05.PNG"
-width = 600
+width = 900
 />
 </p> 
 
 ----
+<!-- pagebreak -->
+
+
 some oxidation...
 <p align="center">
 <img
@@ -81,21 +86,24 @@ width = 600
 </p> 
 
 ----
+<!-- pagebreak -->
 Head cover plate
 
 <p align="center">
 <img
 src="img/07.PNG"
-width = 600
+width = 400
 />
 </p> 
 
 ----
+<!-- pagebreak -->
+
 The lens
 <p align="center">
 <img
 src="img/08.PNG"
-width = 300
+width = 600
 />
 </p> 
 
@@ -104,11 +112,12 @@ width = 300
 <p align="center">
 <img
 src="img/09.PNG"
-width = 300
+width = 400
 />
 </p> 
 
 ----
+<!-- pagebreak -->
 The Lamp is PH140, with 120V working voltage. 
 - [ ] Check for a 220V replacement
 - [ ] Check for possible LED-lamp replacement
@@ -121,6 +130,8 @@ width = 300
 </p> 
 
 ----
+
+<!-- pagebreak -->
 The main body, cleaned, has some minor oxidation
 
 - [ ] Design/3D print a foldable mount to the base to save height when in storage
@@ -128,22 +139,23 @@ The main body, cleaned, has some minor oxidation
 <p align="center">
 <img
 src="img/12.PNG"
-width = 900
+height = 800
 />
 </p> 
 
 ----
+<!-- pagebreak -->
 The head open and the US 120V plug for the lamp
 
 <p align="center">
 <img
 src="img/13.PNG"
-width = 900
+width = 600
 />
 </p> 
 
 ----
-
+<!-- pagebreak -->
 
 ## Links
 ### Beseler
