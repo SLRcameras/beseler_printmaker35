@@ -163,12 +163,27 @@ width = 600
 
 <p align="center">
 <img
+src="img/16.PNG"
+height = 850
+/>
+<img
 src="img/14.PNG"
-width = 600
+height = 850
 />
 </p> 
 
 ----
+
+Using wax
+<p align="center">
+<img
+src="img/15.PNG"
+width = 200
+/>
+</p> 
+
+----
+
 
 <!-- pagebreak -->
 
