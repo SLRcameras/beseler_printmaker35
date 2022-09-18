@@ -171,6 +171,11 @@ height = 850
 ----
 
 Using wax
+
+
+* [SIMONIZ SAPP0188A, Liquid Diamond Polish and Wax](https://www.amazon.co.uk/SIMONIZ-SAPP0188A-Liquid-Diamond-Polish/dp/B08Y475K2R)
+
+
 <p align="center">
 <img
 src="img/15.PNG"
