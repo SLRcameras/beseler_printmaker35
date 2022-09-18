@@ -9,7 +9,8 @@
 
 - [x] comment images
 - [ ] Add base image
-
-
+- [ ] Check if the (missing?) concentrator Lens is needed, or difuse mode is ok 
+- [ ] Check for a 220V Lamp replacement
+- [ ] Check for possible LED-lamp replacement
 
 

@@ -24,10 +24,7 @@ width = 400
 
 
 
-## Tasks
 
-- [x] comment images
-- [ ] Add base image
 
 
 
@@ -64,7 +61,7 @@ width = 900
 
 ----
 Head disassembled.  
-- [ ] Check if the (missing?) concentrator Lens is needed, or difuse mode is ok 
+
 
 <p align="center">
 <img
@@ -119,8 +116,7 @@ width = 400
 ----
 <!-- pagebreak -->
 The Lamp is PH140, with 120V working voltage. 
-- [ ] Check for a 220V replacement
-- [ ] Check for possible LED-lamp replacement
+
 
 <p align="center">
 <img
