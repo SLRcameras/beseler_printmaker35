@@ -155,6 +155,21 @@ width = 600
 </p> 
 
 ----
+
+
+
+
+## Re-assembling
+
+<p align="center">
+<img
+src="img/14.PNG"
+width = 600
+/>
+</p> 
+
+----
+
 <!-- pagebreak -->
 
 ## Links
