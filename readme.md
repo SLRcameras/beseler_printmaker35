@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/local-F:\prj\SLR-orange.svg)]() 
 
 
-
+* [tasks](tasks.md)
 
 #  beseler_printmaker35
 Restoration log of a used Beseler printmaker 35
